@@ -1,0 +1,16 @@
+yatishp@gmail.com
+E214A2B82D850E915C4684FD7FEAC001CF54
+smtp.elasticemail.com
+port 2525
+
+
+item.addEventListener("", () =>{
+      if(items.value !== ""){
+        items.classList.remove("errormsg");
+        item.parentElement.classList.remove("errormsg")
+        }
+    });
+  }
+}
+checkinputs();
+
