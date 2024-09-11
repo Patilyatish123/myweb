@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // floating text
 var typed = new Typed('.Multiple-text', {
-    strings: ['Frontend developer.', '  Web Developer.','Coder'],
+    strings: ['Frontend developer.', 'Web Developer.','Coder'],
     typeSpeed:140,
     backSpees:400,
     backDelay:400,
