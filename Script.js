@@ -4,10 +4,10 @@ var mode= document.getElementById("mode")
 mode.onclick = function(){
   document.body.classList.toggle("dark-theme");
   if(document.body.classList.contains("dark-theme")){
-    mode.src="Sun1.png";
+    mode.src="/images/Sun1.png";
   }
   else{
-    mode.src="moon.png";
+    mode.src="/images/moon.png";
   }
 };
 
